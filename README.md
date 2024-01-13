@@ -1,7 +1,7 @@
 # Thingy91-LTE
  Nordic Thingy:91, LTE app on the NRF9160 MCU
 
-<img src='thingy91.jpg' width='500'>
+<img src='./thingy91.jpg' width='500'>
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-<img src='dashboard_webhook.png'>
+<img src='./dashboard_webhook.png'>
 
 ---
 
