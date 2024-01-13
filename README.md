@@ -13,7 +13,7 @@
 
 ---
 
-<img src='./celluylar_monitor' >
+<img src='./celluylar_monitor.png'>
 
 ---
 
